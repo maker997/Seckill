@@ -13,7 +13,7 @@ public enum  SeckillStateEnum {
     /**
      * 秒杀结束
      */
-    EDN(0,"秒杀结束"),
+    END(0,"秒杀结束"),
     /**
      * 重复秒杀
      */
