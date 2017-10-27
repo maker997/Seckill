@@ -14,6 +14,8 @@ public class Seckill {
 
     private long seckillId;
 
+    private int number;
+
     private String name;
 
     private Date startTime;
